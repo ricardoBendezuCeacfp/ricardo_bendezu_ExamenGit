@@ -7,5 +7,5 @@ public class Clase {
 	double estatura = 1.95;
 	String hobbies= "Comer, dormir, jugar ,etc.";
 	String cambio="Esto es un cambio para el git";
-
+	String cambio2="Cambio en rama 1";
 }
